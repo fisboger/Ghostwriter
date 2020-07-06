@@ -49,7 +49,7 @@ class Reportwriter():
     low_color = '009b5a'
     low_color_hex = [0x00, 0x9b, 0x5a]
     # Orange
-    medium_color = '366e2d'
+    medium_color = 'e66e2d'
     medium_color_hex = [0xe6, 0x6e, 0x2d]
     # Red
     high_color = 'd24146'
